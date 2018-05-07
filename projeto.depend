@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1433270603 source:c:\users\joão\desktop\universidade\2º semestre\programação\codeblocks\projeto\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes.h"
+
+1433255389 c:\users\joão\desktop\universidade\2º semestre\programação\codeblocks\projeto\funcoes.h
+
+1433255827 source:c:\users\joão\desktop\universidade\2º semestre\programação\codeblocks\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes.h"
+
